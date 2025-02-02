@@ -1,6 +1,7 @@
 #download {
 
     .card {
+
         padding: 3rem 1.5rem 15rem;
         position: relative;
 
@@ -16,6 +17,7 @@
 
     .buttons {
         flex-wrap: wrap;
+        margin-top: 2rem;
     }
 
 
