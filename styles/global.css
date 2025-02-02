@@ -96,8 +96,9 @@ a:hover {
     
 }
 
-ul [role="list"] {
+ul[role="list"] {
     list-style: none;
+    
 }
 
 img {
